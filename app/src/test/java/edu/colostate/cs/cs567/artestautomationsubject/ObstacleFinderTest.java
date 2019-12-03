@@ -2,8 +2,6 @@ package edu.colostate.cs.cs567.artestautomationsubject;
 
 import android.content.Context;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import org.junit.Before;
 import org.junit.Test;
 
